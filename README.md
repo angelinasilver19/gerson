@@ -42,3 +42,9 @@ runtime/         Clone a repo, build the image, run a container
 ```
 
 Stay inside your folder unless you are changing the shell or the catalog in `frontend/shared/`.
+
+## Team and attribution
+
+Gerson was created as a team project for Origin Weekend 2026. The [original Devpost submission](https://devpost.com/software/gerson) lists Angelina Silvestri, Nuha Babool, Prakhar Goel, Richard Zhang, and samruddhiusc as creators.
+
+This repository is a copy of the project for portfolio reference. Uploading the files does not imply sole authorship of the code.
